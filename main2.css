@@ -1,0 +1,13 @@
+.cell {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #ccc;
+}
+
+.snake {
+    background-color: green;
+}
+
+.point {
+    background-color: red;
+}
